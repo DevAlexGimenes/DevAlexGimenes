@@ -12,4 +12,5 @@
 <div>
   <a href="https://github.com/DevAlexGimenes>
   <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexGimenes&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexGimenes&layout=compact&langs_count=16&theme=dracula"/>				</div>
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexGimenes&layout=compact&langs_count=16&theme=dracula"/>				
+</div>
